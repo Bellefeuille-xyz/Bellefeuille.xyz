@@ -1,0 +1,24 @@
+{
+  "graph": {
+    "/notes/accidentally-she-team-you-up-words/": {
+      "in": [],
+      "out": []
+    },
+    "/posts/test-post/": {
+      "in": [],
+      "out": []
+    }
+  },
+  "pages": {
+    "/notes/accidentally-she-team-you-up-words/": {
+      "permalink": "/notes/accidentally-she-team-you-up-words/",
+      "section": "notes",
+      "title": "Accidentally She Team You Up Words"
+    },
+    "/posts/test-post/": {
+      "permalink": "/posts/test-post/",
+      "section": "posts",
+      "title": "Testing"
+    }
+  }
+}

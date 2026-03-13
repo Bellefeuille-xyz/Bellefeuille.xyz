@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bellefeuille.xyz</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Bellefeuille.xyz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>dani@bellefeuille.xyz (Dani Morrison)</managingEditor>
+    <webMaster>dani@bellefeuille.xyz (Dani Morrison)</webMaster>
+    <copyright>ALifeLivedFully</copyright>
+    <lastBuildDate>Thu, 12 Mar 2026 18:55:12 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Thu, 12 Mar 2026 18:55:12 -0500</pubDate><author>dani@bellefeuille.xyz (Dani Morrison)</author>
+      <guid>http://localhost:1313/posts/test-post/</guid>
+      <description>&lt;p&gt;Hi this is a test post!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
