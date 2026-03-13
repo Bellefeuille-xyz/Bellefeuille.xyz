@@ -6,7 +6,7 @@ title = ''
 
 # Welcome to Bellefeuille.xyz
 
-![Lee and Kathy](/Images/Lee%20and%20kathy.jpg)
+![Lee and Kathy](/Images/LeeAndKathy.jpg)
 
 Bellefeuille.xyz is the central hub for our family—a place to connect, share, and grow together. Here, every member has a space to showcase their skills, share updates, offer services, and collaborate on projects. 
 
